@@ -8,14 +8,14 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'urbanist': ['Urbanist','sans-serif'],
-        'inter': ['Inter','sans-serif'],
-        'cairo': ['Cairo','sans-serif'],
+        urbanist: ['Urbanist', 'sans-serif'],
+        inter: ['Inter', 'sans-serif'],
+        cairo: ['Cairo', 'sans-serif'],
       },
       screens: {
-        'xs': '480px',
-      }
+        xs: '480px',
+      },
     },
   },
-  plugins: [],
-}
+  plugins: [require('tailwind-scrollbar')({ nocompatible: true })],
+};

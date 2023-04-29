@@ -413,7 +413,7 @@ export default function Home() {
           </div>
         </div>
         <p className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl font-normal text-[#194E6A] mt-7 sm:mt-[43px] xl:mt-[63px] 2xl:mt-[93px] pb-[33px] text-center">
-          copyright©2023 checktoken.com. All rights reserved
+          copyright©2023 celebcheck.com. All rights reserved
         </p>
       </footer>
     </main>
