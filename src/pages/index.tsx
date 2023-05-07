@@ -101,25 +101,29 @@ export default function Home() {
                 $Check yourself before you wreck yourself
               </h3>
               <p className="text-center md:text-left font-semibold text-base sm:text-lg md:text-xl mt-5 sm:mt-7 lg:mt-[45px] text-[#7A7A7A]">
-                Are you tired of the same old Twitter drama? Do you want to add some
-                entertaining content to your social media feed? Then check out
-                $CHECK, the platform that's all about epic memes and social
-                commentary. It started up in response to Twitter's lame verification
-                system changes and has become a go-to spot for anyone who wants to
-                chill and share their opinions in an engaging manner. Whether you're
-                a verified user, just cruising through, or a total MEME lord, $CHECK
-                has something for you. So lets dive in and explore the wild world of
-                Twitter, where we can roast all the stuff that leaves us scratching
-                our heads. With our clever humor and relatable content, we're sure
-                to put a smile on your face and brighten up your day. So why not
-                give it a shot and see what all the fuss is about?
+                Are you tired of the same old T
+                <span className="text-[#E6E6E6]">w</span>itter drama? Do you
+                want to add some entertaining content to your social media feed?
+                Then check out $CHECK, the platform that's all about epic memes
+                and social commentary. It started up in response to T
+                <span className="text-[#E6E6E6]">w</span>itter's lame
+                verification system changes and has become a go-to spot for
+                anyone who wants to chill and share their opinions in an
+                engaging manner. Whether you're a verified user, just cruising
+                through, or a total MEME lord, $CHECK has something for you. So
+                lets dive in and explore the wild world of T
+                <span className="text-[#E6E6E6]">w</span>itter, where we can
+                roast all the stuff that leaves us scratching our heads. With
+                our clever humor and relatable content, we're sure to put a
+                smile on your face and brighten up your day. So why not give it
+                a shot and see what all the fuss is about?
               </p>
               <p className="font-semibold text-base sm:text-lg md:text-xl mt-4 md:mt-[25px] lg:mt-[45px] text-[#7A7A7A]">
-                So what's the fuss? Well, $CHECK is all about creating a space where
-                everyone can come together and share some laughs. We're not into the
-                haters who can't take a joke or want to cancel everything. So let's
-                kick back, grab some brews, and enjoy the good vibes with $CHECK.
-                It's gonna be a total blast!
+                So what's the fuss? Well, $CHECK is all about creating a space
+                where everyone can come together and share some laughs. We're
+                not into the haters who can't take a joke or want to cancel
+                everything. So let's kick back, grab some brews, and enjoy the
+                good vibes with $CHECK. It's gonna be a total blast!
               </p>
             </div>
           </section>
@@ -184,8 +188,9 @@ export default function Home() {
               </div>
             </div>
             <p className="mt-14 md:mt-20 lg:mt-[163px] text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-[44px] xl:leading-[60px] 2xl:text-[64px] 2xl:leadnig-[74px] font-normal text-[#194E6A] text-center pb-5 md:pb-12 lg:pb-[90px]">
-              “The Tits, Prick, or Tick ($CHECK) show” is hosted on our Twitter
-              Space. Watch out for the next episode
+              “The Tits, Prick, or Tick ($CHECK) show” is hosted on our T
+              <span className="text-[#E7E7E7]">w</span>itter Space. Watch out
+              for the next episode
             </p>
           </section>
         </div>
@@ -225,13 +230,14 @@ export default function Home() {
               6.9% SEX (Several Exchange) LISTING
             </p>
             <p className="font-extrabold ml-[121px]">
-            4.2% $CHECK pool (AIRDROPS AND PROMOTIONS)
+              4.2% $CHECK pool (AIRDROPS AND PROMOTIONS)
             </p>
             <p className="font-extrabold">
               No Taxes, No team tokens, Fair Launch.
             </p>
             <p className="font-extrabold">
-            88.9% of $CHECK supply used to provide liquidity. LP tokens were burnt and contract renounced.
+              88.9% of $CHECK supply used to provide liquidity. LP tokens were
+              burnt and contract renounced.
             </p>
           </div>
         </div>
@@ -251,75 +257,95 @@ export default function Home() {
             end-points; the inbetweens are deciphered and decided by our
             community. Here is an example of what might be:
           </p>
-          <div className="mt-[50px] lg:mt-[70px] sm:flex gap-3 lg:gap-7 xl:gap-10 2xl:gap-[58px] text-sm md:text-base xl:text-xl text-[#194E6A] font-normal space-y-5">
-            <div className="sm:max-w-[373px]">
+          <div className="mt-[50px] lg:mt-[70px] md:flex gap-3 lg:gap-7 xl:gap-10 2xl:gap-[58px] text-sm md:text-base xl:text-xl text-[#194E6A] font-normal space-y-5 md:space-y-0">
+            <div className="md:max-w-[373px]">
               <h6 className="text-base xl:text-2xl font-bold pl-4">Phase 1</h6>
-              <div className="py-4 md:py-9 px-5 lg:px-8 bg-[#D9D9D9] mt-1.5">
+              <div className="py-4 md:py-9 px-6 lg:px-8 bg-[#D9D9D9] mt-1.5">
                 <ol className="mt-1 list-decimal">
-                  <li className="pl-2">Build social following and community</li>
-                  <li className="pl-2">Launch $CHECK token</li>
-                  <li className="pl-2">
+                  <li className="pl-1 lg:pl-2">
+                    Build social following and community
+                  </li>
+                  <li className="pl-1 lg:pl-2">Launch $CHECK token</li>
+                  <li className="pl-1 lg:pl-2">
                     Get $CHECK listed on Coinmarketcap & Coingecko - because
                     every project puts it on a roadmap
                   </li>
-                  <li className="pl-2">Get $CHECK trending worldwide</li>
-                  <li className="pl-2">
-                    Tits, Prick, or Tick ($CHECK) show hosted on Twitter Space
+                  <li className="pl-1 lg:pl-2">
+                    Get $CHECK trending worldwide
+                  </li>
+                  <li className="pl-1 lg:pl-2">
+                    Tits, Prick, or Tick ($CHECK) show hosted on T
+                    <span className="text-[#76D0FF]">w</span>itter Space
                   </li>
                 </ol>
               </div>
             </div>
-            <div className="sm:max-w-[373px] sm:mt-[29px]">
+            <div className="md:max-w-[373px] md:pt-[51px] lg:pt-[71px]">
               <h6 className="text-base xl:text-2xl font-bold pl-4">Phase 2</h6>
-              <div className="py-4 md:py-9 px-5 lg:px-8 bg-[#D9D9D9] mt-1.5">
+              <div className="py-4 md:py-9 px-6 lg:px-8 bg-[#D9D9D9] mt-1.5">
                 <ol className="mt-1 list-decimal">
-                  <li className="pl-2">Host Elon Musk on our Twitter Space</li>
-                  <li className="pl-2">
-                    Save a non-celebrity-fund for Twitter verification
+                  <li className="pl-1 lg:pl-2">
+                    Host Elon Musk on our T
+                    <span className="text-[#76D0FF]">w</span>itter Space
                   </li>
-                  <li className="pl-2">
+                  <li className="pl-1 lg:pl-2">
+                    Save a non-celebrity-fund for T
+                    <span className="text-[#76D0FF]">w</span>itter verification
+                  </li>
+                  <li className="pl-1 lg:pl-2">
                     {' '}
-                    Collaborate with Doge as payment for Twitter verification
+                    Collaborate with Doge as payment for T
+                    <span className="text-[#76D0FF]">w</span>itter verification
                     for commoners
                   </li>
-                  <li className="pl-2">
-                    Twitter starts accepting $CHECK as payment for verification
+                  <li className="pl-1 lg:pl-2">
+                    T<span className="text-[#76D0FF]">w</span>itter starts
+                    accepting $CHECK as payment for verification
                   </li>
-                  <li className="pl-2">$CHECK-ed NFT verification badges</li>
-                  <li className="pl-2">
+                  <li className="pl-1 lg:pl-2">
+                    $CHECK-ed NFT verification badges
+                  </li>
+                  <li className="pl-1 lg:pl-2">
                     Listing on Several exchanges (SEX LISTINGS)
                   </li>
                 </ol>
               </div>
             </div>
-            <div className="sm:max-w-[373px] sm:mt-[60px]">
+            <div className="md:max-w-[373px] md:pt-[102px] lg:pt-[142px]">
               <h5 className="text-base xl:text-2xl font-bold pl-4">Phase 3</h5>
-              <div className="py-4 md:py-9 px-5 lg:px-8 bg-[#D9D9D9] mt-1.5">
+              <div className="py-4 md:py-9 px-6 lg:px-8 bg-[#D9D9D9] mt-1.5">
                 <ol className="mt-1 list-decimal">
-                  <li className="pl-2">
+                  <li className="pl-1 lg:pl-2">
                     Create a "Wall of Shame" for thin-skinned celebrities who
                     can't take a joke
                   </li>
-                  <li className="pl-2">
+                  <li className="pl-1 lg:pl-2">
                     Partner with top meme creators for $CHECK-exclusive content
                   </li>
-                  <li className="pl-2">
+                  <li className="pl-1 lg:pl-2">
                     Launch $CHECK merchandise line, including t-shirts, mugs,
                     and stickers
                   </li>
-                  <li className="pl-2">
+                  <li className="pl-1 lg:pl-2">
                     Host a charity event where celebrities donate to charity in
                     exchange for their blue $CHECKmark
                   </li>
-                  <li className="pl-2">
+                  <li className="pl-1 lg:pl-2">
                     Hold a $CHECK meme contest with a grand prize of a verified
-                    Twitter account
+                    T<span className="text-[#76D0FF]">w</span>itter account
                   </li>
                 </ol>
               </div>
             </div>
           </div>
           <p className="text-lg sm:text-xl md:text-2xl font-bold text-[#194E6A] mt-10 md:mt-[62px]">
+            "Know what? Fuck it! We are starting our massive campaign by
+            rewarding people we feel have impacted normies positively on a daily
+            basis. Therefore, our first action after launch will be to pay the
+            annual verification subscription for $PEPE, $BabyDoge and
+            @Matt_Furrie.
+          </p>
+          <p className="text-lg sm:text-xl md:text-2xl font-bold text-[#194E6A]">
             Remember, this roadmap is just the beginning. We're counting on our
             community to help us decide where to take $CHECK next!
           </p>
@@ -366,11 +392,7 @@ export default function Home() {
             />
           </div>
           <div className="relative w-[160px] xs:w-[210px] md:w-[260px] lg:w-[310px] h-[50px] xs:h-[60px] md:h-[70px] lg:h-[90px] xl:w-[250px] xl:h-[70px] 2xl:w-[435px] 2xl:h-[115px]">
-            <Image
-              src={'/img/etherscan1.png'}
-              fill
-              alt="find check on image"
-            />
+            <Image src={'/img/etherscan1.png'} fill alt="find check on image" />
           </div>
         </div>
       </section>
@@ -393,7 +415,8 @@ export default function Home() {
                 celebcheck.com
               </h4>
               <p className="text-sm xl:text-xl font-semibold text-[#7A7A7A] mt-2 max-w-[185px]">
-                $CHECK will make Twitter great again! No kidding!
+                $CHECK will make T<span className="text-[#DBDBDB]">w</span>itter
+                great again! No kidding!
               </p>
             </div>
           </div>
