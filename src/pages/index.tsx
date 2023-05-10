@@ -15,7 +15,7 @@ const menu = (
         <a href={'#spaces'}>Spaces</a>
       </li>
        <li className="px-5 hover:bg-[#E8F0F5]">
-        <a targe={'_blank'} href={'https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x8a2D0A517eCDbe2165F4ad5A2deaDF880D66560C'}>Buy</a>
+        <a target={'_blank'} href={'https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x8a2D0A517eCDbe2165F4ad5A2deaDF880D66560C'}>Buy</a>
       </li>
       <li className="px-5 hover:bg-[#E8F0F5]">
         <a href={'#tokenomics'}>Tokenomics</a>
@@ -54,6 +54,9 @@ export default function Home() {
                 <li className="hover:text-[#194E6A] transition-colors duration-200 ease-in-out">
                   <a href={'#spaces'}>Spaces</a>
                 </li>
+                  <li className="px-5 hover:bg-[#E8F0F5]">
+        <a target={'_blank'} href={'https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x8a2D0A517eCDbe2165F4ad5A2deaDF880D66560C'}>Buy</a>
+      </li>
                 <li className="hover:text-[#194E6A] transition-colors duration-200 ease-in-out">
                   <a href={'#tokenomics'}>Tokenomics</a>
                 </li>
@@ -219,7 +222,7 @@ export default function Home() {
               TOKEN SYMBOL: <span className="font-extrabold">$CHECK</span>
             </p>
             <p className="">
-              CONTRACT ADDRESS: <span className="font-extrabold"><a href="https://etherscan.io/token/0x8a2D0A517eCDbe2165F4ad5A2deaDF880D66560C">0x8a2D0A517eCDbe2165F4ad5A2deaDF880D66560C</a></span>
+              CONTRACT ADDRESS: <span className="font-extrabold"><a style={{color: 'blue'}} target={'_blank'} href="https://etherscan.io/token/0x8a2D0A517eCDbe2165F4ad5A2deaDF880D66560C">0x8a2D0A517eCDbe2165F4ad5A2deaDF880D66560C</a></span>
             </p>
             <p className="">
               MAX SUPPLY:{' '}
@@ -243,8 +246,8 @@ export default function Home() {
               burnt and contract renounced.
             </p>
              <p className="font-extrabold">
-               Renounce Transaction Tx Hash: <a href="https://etherscan.io/tx/0xae5ab48d8a04de70c1beafcd478da81fa143cc3ccc6411a82e42823858368e81">0xae5ab48d8a04de70c1beafcd478da81fa143cc3ccc6411a82e42823858368e81</a></br>
-              Permanently Liquidty Lock Tx Hash: <a href="https://etherscan.io/tx/0x3b713b83d819af9ac360994fb74604fee314de4cc73f7d6fb236ec48a69b2517">0x3b713b83d819af9ac360994fb74604fee314de4cc73f7d6fb236ec48a69b2517</a></br>
+              Contract Renounced: <a style={{color: 'blue'}} target={'_blank'} href="https://etherscan.io/tx/0xae5ab48d8a04de70c1beafcd478da81fa143cc3ccc6411a82e42823858368e81">0xae5ab48d8a04de70c1beafcd478da81fa143cc3ccc6411a82e42823858368e81</a><br/>
+              Liquidty Locked Forever:  <a style={{color: 'blue'}} target={'_blank'} href="https://etherscan.io/tx/0x3b713b83d819af9ac360994fb74604fee314de4cc73f7d6fb236ec48a69b2517">0x3b713b83d819af9ac360994fb74604fee314de4cc73f7d6fb236ec48a69b2517</a><br/>
             </p>
           </div>
         </div>
