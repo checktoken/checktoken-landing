@@ -247,7 +247,7 @@ export default function Home() {
             </p>
              <p className="font-extrabold">
               Contract Renounced: <a style={{color: 'blue'}} target={'_blank'} href="https://etherscan.io/tx/0xae5ab48d8a04de70c1beafcd478da81fa143cc3ccc6411a82e42823858368e81">0xae5ab48d8a04de70c1beafcd478da81fa143cc3ccc6411a82e42823858368e81</a><br/>
-              Liquidty Locked Forever:  <a style={{color: 'blue'}} target={'_blank'} href="https://etherscan.io/tx/0x3b713b83d819af9ac360994fb74604fee314de4cc73f7d6fb236ec48a69b2517">0x3b713b83d819af9ac360994fb74604fee314de4cc73f7d6fb236ec48a69b2517</a><br/>
+              Liquidity Locked Forever:  <a style={{color: 'blue'}} target={'_blank'} href="https://etherscan.io/tx/0x3b713b83d819af9ac360994fb74604fee314de4cc73f7d6fb236ec48a69b2517">0x3b713b83d819af9ac360994fb74604fee314de4cc73f7d6fb236ec48a69b2517</a><br/>
             </p>
           </div>
         </div>
